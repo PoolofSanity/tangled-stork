@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.10)  11 JUN 2016 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.10)  12 JUN 2016 22:14
 entering extended mode
 **CV.tex
 (CV.tex
@@ -357,307 +357,45 @@ File: babel.def 2015/08/03 3.9m Babel common definitions
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
-Package: biblatex 2015/04/19 v3.0 programmable bibliographies (PK/JW/AB)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex2.sty"
-Package: biblatex2 2015/04/19 v3.0 programmable bibliographies (biber) (PK/JW/A
-B)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count91
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count92
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count93
-\c@listtotal=\count94
-\c@listcount=\count95
-\c@liststart=\count96
-\c@liststop=\count97
-\c@citecount=\count98
-\c@citetotal=\count99
-\c@multicitecount=\count100
-\c@multicitetotal=\count101
-\c@instcount=\count102
-\c@maxnames=\count103
-\c@minnames=\count104
-\c@maxitems=\count105
-\c@minitems=\count106
-\c@citecounter=\count107
-\c@savedcitecounter=\count108
-\c@uniquelist=\count109
-\c@uniquename=\count110
-\c@refsection=\count111
-\c@refsegment=\count112
-\c@maxextratitle=\count113
-\c@maxextratitleyear=\count114
-\c@maxextrayear=\count115
-\c@maxextraalpha=\count116
-\c@abbrvpenalty=\count117
-\c@highnamepenalty=\count118
-\c@lownamepenalty=\count119
-\c@maxparens=\count120
-\c@parenlevel=\count121
-\blx@tempcnta=\count122
-\blx@tempcntb=\count123
-\blx@tempcntc=\count124
-\blx@maxsection=\count125
-\blx@maxsegment@0=\count126
-\blx@notetype=\count127
-\blx@parenlevel@text=\count128
-\blx@parenlevel@foot=\count129
-\blx@sectionciteorder@0=\count130
-\labelnumberwidth=\skip43
-\labelalphawidth=\skip44
-\biblabelsep=\skip45
-\bibitemsep=\skip46
-\bibnamesep=\skip47
-\bibinitsep=\skip48
-\bibparsep=\skip49
-\bibhang=\skip50
-\blx@bcfin=\read1
-\blx@bcfout=\write3
-\c@mincomprange=\count131
-\c@maxcomprange=\count132
-\c@mincompwidth=\count133
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def")
-Package biblatex Info: Trying to load biblatex citestyle data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count134
-\c@savedafterword=\count135
-\c@annotator=\count136
-\c@savedannotator=\count137
-\c@author=\count138
-\c@savedauthor=\count139
-\c@bookauthor=\count140
-\c@savedbookauthor=\count141
-\c@commentator=\count142
-\c@savedcommentator=\count143
-\c@editor=\count144
-\c@savededitor=\count145
-\c@editora=\count146
-\c@savededitora=\count147
-\c@editorb=\count148
-\c@savededitorb=\count149
-\c@editorc=\count150
-\c@savededitorc=\count151
-\c@foreword=\count152
-\c@savedforeword=\count153
-\c@holder=\count154
-\c@savedholder=\count155
-\c@introduction=\count156
-\c@savedintroduction=\count157
-\c@namea=\count158
-\c@savednamea=\count159
-\c@nameb=\count160
-\c@savednameb=\count161
-\c@namec=\count162
-\c@savednamec=\count163
-\c@translator=\count164
-\c@savedtranslator=\count165
-\c@shortauthor=\count166
-\c@savedshortauthor=\count167
-\c@shorteditor=\count168
-\c@savedshorteditor=\count169
-\c@labelname=\count170
-\c@savedlabelname=\count171
-\c@institution=\count172
-\c@savedinstitution=\count173
-\c@lista=\count174
-\c@savedlista=\count175
-\c@listb=\count176
-\c@savedlistb=\count177
-\c@listc=\count178
-\c@savedlistc=\count179
-\c@listd=\count180
-\c@savedlistd=\count181
-\c@liste=\count182
-\c@savedliste=\count183
-\c@listf=\count184
-\c@savedlistf=\count185
-\c@location=\count186
-\c@savedlocation=\count187
-\c@organization=\count188
-\c@savedorganization=\count189
-\c@origlocation=\count190
-\c@savedoriglocation=\count191
-\c@origpublisher=\count192
-\c@savedorigpublisher=\count193
-\c@publisher=\count194
-\c@savedpublisher=\count195
-\c@language=\count196
-\c@savedlanguage=\count197
-\c@pageref=\count198
-\c@savedpageref=\count199
-\shorthandwidth=\skip51
-\shortjournalwidth=\skip52
-\shortserieswidth=\skip53
-\shorttitlewidth=\skip54
-\shortauthorwidth=\skip55
-\shorteditorwidth=\skip56
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
-File: blx-compat.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
-File: biblatex.def 
-\c@textcitecount=\count200
-\c@textcitetotal=\count201
-\c@textcitemaxnames=\count202
-\c@biburlnumpenalty=\count203
-\c@biburlucpenalty=\count204
-\c@biburllcpenalty=\count205
-\c@smartand=\count206
-)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
-File: numeric.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
-File: standard.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count207
-\c@bbx:relatedtotal=\count208
-))
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\authoryear.cbx"
-File: authoryear.cbx 2015/04/19 v3.0 biblatex citation style (PK/JW/AB)
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
-File: biblatex.cfg 
-)))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
-)
-Package graphics Info: Driver file: pdftex.def on input line 94.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count209
-))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count210
-\float@exts=\toks18
-\float@box=\box26
-\@float@everytoks=\toks19
-\@floatcapt=\box27
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 142.
-)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hanging\hanging.sty"
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
-\h@ngcommawd=\skip57
-\h@ngfstopwd=\skip58
-\h@ngquotewd=\skip59
-\h@ngdquotewd=\skip60
-\h@ngquerywd=\skip61
-\h@ngexclwd=\skip62
-\h@ngcolonwd=\skip63
-\h@ngscolonwd=\skip64
+\h@ngcommawd=\skip43
+\h@ngfstopwd=\skip44
+\h@ngquotewd=\skip45
+\h@ngdquotewd=\skip46
+\h@ngquerywd=\skip47
+\h@ngexclwd=\skip48
+\h@ngcolonwd=\skip49
+\h@ngscolonwd=\skip50
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
-\c@tracingmulticols=\count211
-\mult@box=\box28
-\multicol@leftmargin=\dimen114
-\c@unbalance=\count212
-\c@collectmore=\count213
-\doublecol@number=\count214
-\multicoltolerance=\count215
-\multicolpretolerance=\count216
-\full@width=\dimen115
-\page@free=\dimen116
-\premulticols=\dimen117
-\postmulticols=\dimen118
-\multicolsep=\skip65
-\multicolbaselineskip=\skip66
-\partial@page=\box29
-\last@line=\box30
-\maxbalancingoverflow=\dimen119
-\mult@rightbox=\box31
-\mult@grightbox=\box32
-\mult@gfirstbox=\box33
-\mult@firstbox=\box34
+\c@tracingmulticols=\count91
+\mult@box=\box26
+\multicol@leftmargin=\dimen112
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen113
+\page@free=\dimen114
+\premulticols=\dimen115
+\postmulticols=\dimen116
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen117
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
 \@tempa=\box35
 \@tempa=\box36
 \@tempa=\box37
@@ -673,44 +411,30 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \@tempa=\box47
 \@tempa=\box48
 \@tempa=\box49
-\@tempa=\box50
-\@tempa=\box51
-\c@columnbadness=\count217
-\c@finalcolumnbadness=\count218
-\last@try=\dimen120
-\multicolovershoot=\dimen121
-\multicolundershoot=\dimen122
-\mult@nat@firstbox=\box52
-\colbreak@box=\box53
-\mc@col@check@num=\count219
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen118
+\multicolovershoot=\dimen119
+\multicolundershoot=\dimen120
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count99
+) (CV.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 15.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
-File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
-)
-
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count220
-\@quotereset=\count221
-(CV.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 21.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -747,108 +471,89 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'CV.bbl' found.
-(CV.bbl)
-Package biblatex Info: Reference section=0 on input line 21.
-Package biblatex Info: Reference segment=0 on input line 21.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count222
-\scratchdimen=\dimen123
-\scratchbox=\box54
-\nofMPsegments=\count223
-\nofMParguments=\count224
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count225
-\MPscratchDim=\dimen124
-\MPnumerator=\count226
-\makeMPintoPDFobject=\count227
-\everyMPtoPDFconversion=\toks21
-)
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 54.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 48.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 48.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 54.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 48.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 54.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 48.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 54.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 48.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 54.
+(Font)              <12> on input line 48.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 48.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 48.
 
-Overfull \hbox (19.47595pt too wide) in paragraph at lines 53--55
-\T1/lmr/m/n/12 Chetan Chitre & Man-aswini Bhalla) Avail-able at SSRN: $\T1/lmtt
-/m/n/12 http : / / ssrn . com / abstract =$
+Overfull \hbox (6.23195pt too wide) in paragraph at lines 50--56
+\T1/lmr/m/n/12 Jun 2016: UNU-WIDER, UNU-WIDER Con-fer-ence on Hu-man Cap-i-tal 
+and Growth,
  []
 
 
-Overfull \hbox (2.96796pt too wide) in paragraph at lines 56--62
-\T1/lmr/m/n/12 Jun 2016: UNU-WIDER, UNU-WIDER Con-fer-ence on Hu-man Cap-i-tal 
-and Growth 
+Underfull \hbox (badness 10000) in paragraph at lines 57--64
+
  []
 
 [1
 
 {C:/Users/Jothsna/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 69.
 
- []
-
-[2] (CV.aux)
-Package logreq Info: Writing requests to 'CV.run.xml'.
- ) 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 69.
+ [2] (CV.aux) ) 
 Here is how much of TeX's memory you used:
- 8324 strings out of 493673
- 135418 string characters out of 3141524
- 560325 words of memory out of 3000000
- 11544 multiletter control sequences out of 15000+200000
+ 2056 strings out of 493673
+ 27123 string characters out of 3141524
+ 90735 words of memory out of 3000000
+ 5375 multiletter control sequences out of 15000+200000
  35291 words of font info for 33 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,5n,32p,813b,1407s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lm
-tt12.pfb>
-Output written on CV.pdf (2 pages, 124233 bytes).
+ 23i,4n,23p,392b,240s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.
+enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/
+lmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
+
+Output written on CV.pdf (2 pages, 130583 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

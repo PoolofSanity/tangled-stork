@@ -1,9 +1,9 @@
 [0] Config.pm:324> INFO - This is Biber 2.1
 [0] Config.pm:327> INFO - Logfile is 'CV.blg'
-[75] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
-[76] Biber.pm:333> INFO - Reading 'CV.bcf'
-[357] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
-[357] Utils.pm:146> WARN - The file 'CV.bcf' does not contain any citations!
-[397] bbl.pm:505> INFO - Writing 'CV.bbl' with encoding 'ascii'
-[400] bbl.pm:596> INFO - Output to CV.bbl
-[403] Biber.pm:106> INFO - WARNINGS: 1
+[69] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
+[69] Biber.pm:333> INFO - Reading 'CV.bcf'
+[358] Biber.pm:645> INFO - Found 0 citekeys in bib section 0
+[358] Utils.pm:146> WARN - The file 'CV.bcf' does not contain any citations!
+[387] bbl.pm:505> INFO - Writing 'CV.bbl' with encoding 'UTF-8'
+[390] bbl.pm:596> INFO - Output to CV.bbl
+[391] Biber.pm:106> INFO - WARNINGS: 1
